@@ -132,7 +132,7 @@ class MyHomePage extends StatelessWidget {
           padding: EdgeInsets.zero,
           children: <Widget>[
             DrawerHeader(
-              child: Text('Drawer Header'),
+              child: Text('Aplikasi coba-coba Bagas'),
               decoration: BoxDecoration(
                 color: Colors.blue,
               ),
@@ -147,7 +147,7 @@ class MyHomePage extends StatelessWidget {
               },
             ),
             ListTile(
-              title: Text('PAGE 1'),
+              title: Text('TENTANG'),
               onTap: () {
                 // Update the state of the app
                 // ...
